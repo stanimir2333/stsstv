@@ -137,3 +137,7 @@ mean pixel error <1 for RGB/YUV, <1 for BW) + cross-checked with `PySSTV`
 ## License
 
 MIT — timing per Dayton Paper / libsstv (MIT), own implementation.
+
+## About
+
+This whole thing is vibecoded — just a for-fun project I made because I was bored.
